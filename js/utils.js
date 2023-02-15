@@ -2,7 +2,7 @@ export function createCardsIconsArray(count) {
     const cardsIcons = [
         'house',
         'poo',
-        'heart',
+        'anchor',
         'hippo',
         'camera',
         'plane',
