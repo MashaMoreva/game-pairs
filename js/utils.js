@@ -4,20 +4,26 @@ export function createCardsIconsArray(count) {
         'ship',
         'anchor',
         'hippo',
-        'camera',
+        'dog',
         'plane',
-        'key',
-        'paw'
+        'planet-ringed',
+        'paw',
+        'earth-americas',
+        'champagne-glasses',
+        'burger-fries',
+        'burger-fries',
     ];
 
     switch (count) {
-        case 10:
-            return cardsIcons.slice(0, 5);
         case 12:
             return cardsIcons.slice(0, 6);
-        case 14:
-            return cardsIcons.slice(0, 7);
         case 16:
+            return cardsIcons.slice(0, 8);
+        case 20:
+            return cardsIcons.slice(0, 10);
+        case 28:
+            return cardsIcons.slice(0, 14);
+        case 32:
             return cardsIcons;
         default:
             break;
