@@ -1,20 +1,21 @@
 export function createCardsIconsArray(count) {
     const cardsIcons = [
-        'house-night',
         'ship',
         'anchor',
         'hippo',
         'dog',
-        'planet-ringed',
         'paw',
         'earth-americas',
         'champagne-glasses',
+        'glasses',
+        'umbrella',
+        
+        'planet-ringed',
+        'house-night',
         'burger-fries',
         'teddy-bear',
-        'glasses',
         'gamepad-modern',
         'tricycle',
-        'umbrella',
     ];
 
     switch (count) {
