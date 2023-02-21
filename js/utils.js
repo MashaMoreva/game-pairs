@@ -11,8 +11,8 @@ export function createCardsIconsArray(count) {
         'umbrella',
         'plane',
         
-        'house-night',
-        'burger-fries',
+        'gift',
+        'tree',
         'teddy-bear',
         'gamepad-modern',
         'tricycle',
