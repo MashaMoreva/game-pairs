@@ -20,10 +20,8 @@ export function createCardsIconsArray(count) {
     switch (count) {
         case 12:
             return cardsIcons.slice(0, 6);
-        case 16:
-            return cardsIcons.slice(0, 8);
-        case 20:
-            return cardsIcons.slice(0, 10);
+        case 18:
+            return cardsIcons.slice(0, 9);
         case 24:
             return cardsIcons.slice(0, 12);
         case 30:
