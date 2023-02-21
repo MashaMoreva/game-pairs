@@ -23,7 +23,7 @@ export function startGame(difficulty) {
     shuffle(duplicatedCardsIcons);
 
     duplicatedCardsIcons.forEach((icon) => {
-        gameBoard.append(createGameCard('question', icon))
+        gameBoard.append(createGameCard('cards-blank', icon))
 
     });
 
