@@ -22,9 +22,10 @@ export function createMenu() {
 
    menu.append(
         title,
-        createDifficultySelectionButton(10),
         createDifficultySelectionButton(12),
-        createDifficultySelectionButton(14),
         createDifficultySelectionButton(16),
+        createDifficultySelectionButton(20),
+        createDifficultySelectionButton(28),
+        createDifficultySelectionButton(32),
     )
 }
