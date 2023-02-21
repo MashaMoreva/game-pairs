@@ -1,6 +1,6 @@
 export function createCardsIconsArray(count) {
     const cardsIcons = [
-        'house',
+        'house-night',
         'ship',
         'anchor',
         'hippo',
@@ -11,7 +11,11 @@ export function createCardsIconsArray(count) {
         'earth-americas',
         'champagne-glasses',
         'burger-fries',
-        'burger-fries',
+        'teddy-bear',
+        'glasses',
+        'gamepad-modern',
+        'tricycle',
+        'umbrella',
     ];
 
     switch (count) {
