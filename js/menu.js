@@ -25,7 +25,7 @@ export function createMenu() {
         createDifficultySelectionButton(12),
         createDifficultySelectionButton(16),
         createDifficultySelectionButton(20),
-        createDifficultySelectionButton(28),
+        createDifficultySelectionButton(24),
         createDifficultySelectionButton(30),
     )
 }
