@@ -9,8 +9,8 @@ export function createCardsIconsArray(count) {
         'champagne-glasses',
         'glasses',
         'umbrella',
+        'plane',
         
-        'planet-ringed',
         'house-night',
         'burger-fries',
         'teddy-bear',
