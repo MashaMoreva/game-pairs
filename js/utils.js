@@ -13,9 +13,9 @@ export function createCardsIconsArray(count) {
         
         'gift',
         'tree',
-        'teddy-bear',
-        'gamepad-modern',
-        'tricycle',
+        'mountain-sun',
+        'crown',
+        'plug',
     ];
 
     switch (count) {
