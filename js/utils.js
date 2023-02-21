@@ -5,7 +5,6 @@ export function createCardsIconsArray(count) {
         'anchor',
         'hippo',
         'dog',
-        'plane',
         'planet-ringed',
         'paw',
         'earth-americas',
@@ -25,9 +24,9 @@ export function createCardsIconsArray(count) {
             return cardsIcons.slice(0, 8);
         case 20:
             return cardsIcons.slice(0, 10);
-        case 28:
-            return cardsIcons.slice(0, 14);
-        case 32:
+        case 24:
+            return cardsIcons.slice(0, 12);
+        case 30:
             return cardsIcons;
         default:
             break;
