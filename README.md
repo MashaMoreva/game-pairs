@@ -12,4 +12,4 @@
 * HTML
 
 #### Ссылка
-* [Сыграем?](https://mashamoreva.github.io/game-Pairs/)
+* [Сыграем?](https://mashamoreva.github.io/game-pairs/)
