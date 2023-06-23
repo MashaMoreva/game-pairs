@@ -1,0 +1,7 @@
+@font-face {
+  src: url(../Zhizn/zhizn.woff) format("woff"),
+    url(../Zhizn/zhizn.woff2) format("woff2");
+  font-family: "Zhizn";
+  font-style: normal;
+  font-weight: 400;
+}
